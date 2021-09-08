@@ -1,0 +1,10 @@
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCDatabase\bin\Debug\MVCDatabase.dacpac
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCDatabase\bin\Debug\MVCDatabase.dll
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCDatabase\bin\Debug\MVCDatabase.pdb
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCDatabase\obj\Debug\MVCDatabase.sqlproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCDatabase\obj\Debug\Model.xml
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCDatabase\obj\Debug\refactor.xml
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCDatabase\obj\Debug\postdeploy.sql
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCDatabase\obj\Debug\predeploy.sql
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCDatabase\obj\Debug\MVCDatabase.dll
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCDatabase\obj\Debug\MVCDatabase.pdb
