@@ -1,0 +1,9 @@
+C:\Users\Samsung\source\repos\MVCWeabApplication\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Samsung\source\repos\MVCWeabApplication\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Samsung\source\repos\MVCWeabApplication\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Samsung\source\repos\MVCWeabApplication\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Samsung\source\repos\MVCWeabApplication\DataLibrary\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\MVCWeabApplication\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\MVCWeabApplication\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Samsung\source\repos\MVCWeabApplication\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Samsung\source\repos\MVCWeabApplication\DataLibrary\obj\Debug\DataLibrary.pdb

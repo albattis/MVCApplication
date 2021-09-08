@@ -77,3 +77,7 @@ C:\Users\Samsung\source\repos\MVCWeabApplication\MVCWeabApplication\obj\Debug\MV
 C:\Users\Samsung\source\repos\MVCWeabApplication\MVCWeabApplication\obj\Debug\MVCWeabApplication.csproj.CopyComplete
 C:\Users\Samsung\source\repos\MVCWeabApplication\MVCWeabApplication\obj\Debug\MVCWeabApplication.dll
 C:\Users\Samsung\source\repos\MVCWeabApplication\MVCWeabApplication\obj\Debug\MVCWeabApplication.pdb
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCWeabApplication\bin\DataLibrary.dll
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCWeabApplication\bin\Dapper.dll
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCWeabApplication\bin\DataLibrary.pdb
+C:\Users\Samsung\source\repos\MVCWeabApplication\MVCWeabApplication\bin\Dapper.xml
