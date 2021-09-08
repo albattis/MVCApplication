@@ -28,6 +28,26 @@ namespace MVCWeabApplication.Controllers
 
             return View();
         }
+
+        public ActionResult ViewEmployees()
+        {
+            ViewBag.Message = "Employee List.";
+            var data = LoadEmployees();
+            List<EmployeeModel> employees = new List<EmployeeModel>();
+            foreach (var row in data)
+            {
+                employees.Add(new EmployeeModel { 
+                
+                    EmployeeId=row.EmployeeId,
+                    FirstName=row.FirstName,
+                    LastName=row.LastName,
+                    EmailAddress=row.EmailAddress,
+                    ConfirmEmail=row.EmailAddress
+                });
+            }
+            return View(employees);
+        }
+
         public ActionResult SignUp()
         {
             ViewBag.Message = "Employee Sign Up";
